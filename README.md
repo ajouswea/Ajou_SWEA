@@ -13,14 +13,14 @@
 > [알고리즘 분류],[문제 URI]()
 # `Nth try`
 - **`Before try`(`접근법`)**
-  - `condition(주의할 문제조건)`
-    - cond1
-    - cond2
+  - `Condition(주의할 문제조건)`
+    - `cond1`
+    - `cond2`
     - ...
-    - `input:`
-    - `output:`
-  - `variables(변수: 데이터타입)`
-  - `algorithm`
+    - `INPUT:`
+    - `OUTPUT:`
+  - `Variables(변수: 데이터타입)`
+  - `Algorithm`
   
 
 - [소스코드]
