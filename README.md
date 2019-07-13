@@ -12,8 +12,8 @@
 # 문제이름
 > [알고리즘 분류],문제 URI 
 # `Nth try`
-- `Before try`(`접근법`)
-  - `condition(문제조건)`
+- **`Before try`(`접근법`)**
+  - `condition(주의할 문제조건)`
     - cond1
     - cond2
     - ...
@@ -25,7 +25,7 @@
 
 - [소스코드]
 
-- After try(회고)
+- **After try(회고)**
 
 ```
 
