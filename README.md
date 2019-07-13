@@ -8,17 +8,26 @@
 - [클럽 Problem Box](https://swexpertacademy.com/main/talk/solvingClub/problemBoxDetail.do?solveclubId=AV6kld8aisgDFASb&probBoxId=AV9gdM_anw0DFAQc&leftPage=1#none)
 
 # 양식
-    # 문제이름
-    > 문제 URI
-    # `1st try(시도횟수)`
-    - 접근법
-      - 만들 변수들
-      - 접근할 알고리즘 테마
-      - input,output
-      - condition 조건 잡기
+```
+# 문제이름
+> [알고리즘 분류],문제 URI 
+# `Nth try`
+- `Before try`(`접근법`)
+  - `condition(문제조건)`
+    - cond1
+    - cond2
+    - ...
+    - `input:`
+    - `output:`
+  - `variables(변수: 데이터타입)`
+  - `algorithm`
+  
 
-    - 소스코드
-    - 회고
+- [소스코드]
+
+- After try(회고)
+
+```
 
 
 # 7월
