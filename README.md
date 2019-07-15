@@ -36,6 +36,7 @@
 
 
 # 7월
+>  주중 하루 2문제씩, 주말 하루 5문제씩 ( 총 20문제/per week )
 ## 3째주
 - [[SW 문제해결 기본] 1일차 - View](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C(%EB%82%9C%EC%9D%B4%EB%8F%84%201~3)%20(15)/1206.%20%5BSW%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%5D%201%EC%9D%BC%EC%B0%A8%20-%20View)
 - [[SW 문제해결 기본] 1일차 - Flatten](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C(%EB%82%9C%EC%9D%B4%EB%8F%84%201~3)%20(15)/1208.%20%5BSW%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%5D%201%EC%9D%BC%EC%B0%A8%20-%20Flatten)
