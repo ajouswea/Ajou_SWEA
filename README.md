@@ -14,8 +14,7 @@
 > [알고리즘 분류],[문제 URI]()
 
 ## `Problem`
-```
-```
+> 문제정의
 - `INPUT:`
 - `OUTPUT:`
 
@@ -23,7 +22,7 @@
     - `cond1:`
     - `cond2:`
 
-# `Nst try`
+## `Nst try`
 - **`Before try`(`접근법`)**
 
   - `Variables(변수: 데이터타입)`
