@@ -62,6 +62,9 @@
 - [농작물 수확하기](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C(%EB%82%9C%EC%9D%B4%EB%8F%84%201~3)%20(15)/%EB%86%8D%EC%9E%91%EB%AC%BC_%EC%88%98%ED%99%95%ED%95%98%EA%B8%B0)
 
 - [N-Queen](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C(%EB%82%9C%EC%9D%B4%EB%8F%84%201~3)%20(15)/N-Queen)
+
+- [최장경로](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C(%EB%82%9C%EC%9D%B4%EB%8F%84%201~3)%20(15)/%EC%B5%9C%EC%9E%A5%20%EA%B2%BD%EB%A1%9C)
+
 ## 4째주
 ## 5째주
 
