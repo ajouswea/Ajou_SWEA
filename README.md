@@ -69,6 +69,8 @@
 
 - [수영장](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%88%98%EC%98%81%EC%9E%A5)
 
+- [탈주범 검거](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%83%88%EC%A3%BC%EB%B2%94%20%EA%B2%80%EA%B1%B0)
+
 ## 4째주
 ## 5째주
 
