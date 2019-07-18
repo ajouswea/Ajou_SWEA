@@ -65,9 +65,9 @@
 
 - [최장경로](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EC%82%BC%EC%84%B1%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C%EB%AA%A8%EC%9D%8C(%EB%82%9C%EC%9D%B4%EB%8F%84%201~3)%20(15)/%EC%B5%9C%EC%9E%A5%20%EA%B2%BD%EB%A1%9C)
 
-- [등산로 조성](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%88%98%EC%98%81%EC%9E%A5)
+- [등산로 조성](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%93%B1%EC%82%B0%EB%A1%9C%EC%A1%B0%EC%84%B1)
 
-- [수영장](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%93%B1%EC%82%B0%EB%A1%9C%EC%A1%B0%EC%84%B1)
+- [수영장](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%88%98%EC%98%81%EC%9E%A5)
 
 ## 4째주
 ## 5째주
