@@ -75,7 +75,7 @@
 
 - [디저트 카페](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%94%94%EC%A0%80%ED%8A%B8%20%EC%B9%B4%ED%8E%98)
 
-- [미생물 격리](./모의SW역량테스트/미생물_격리)
+- [미생물 격리](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AF%B8%EC%83%9D%EB%AC%BC%20%EA%B2%A9%EB%A6%AC)
 ## 5째주
 
 # 8월
