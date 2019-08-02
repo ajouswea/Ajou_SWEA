@@ -13,24 +13,21 @@
 # 문제이름
 > [알고리즘 분류],[문제 URI]()
 
-## `Problem`
 > 문제정의
+
 - `INPUT:`
 - `OUTPUT:`
 
 - `Condition(주의할 문제조건)`
-    - `cond1:`
-    - `cond2:`
 
-## `Nst try`
-- **`Before try`(`접근법`)**
 
-  - `Variables(변수: 데이터타입)`
-  - `Algorithm`
+## `1st try`
+
+#### `Variables(변수: 데이터타입)`
+#### `Algorithm`
   
 - [소스코드]
 
-- **After try(회고)**
 
 ```
 
