@@ -67,3 +67,12 @@
 
 - [미생물 격리](https://github.com/ajouswea/Ajou_SWEA/tree/master/%EB%AA%A8%EC%9D%98SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AF%B8%EC%83%9D%EB%AC%BC%20%EA%B2%A9%EB%A6%AC)
 
+
+# 9월 
+
+- [S/W 문제해결 기본]
+- [S/W 문제해결 응용]
+
+# 10월
+
+- 백준 복습 및 새로운 update 풀기
