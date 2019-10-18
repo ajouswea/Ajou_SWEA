@@ -8,6 +8,10 @@
 # 공부 source
 - [클럽 Problem Box](https://swexpertacademy.com/main/talk/solvingClub/problemBoxDetail.do?solveclubId=AV6kld8aisgDFASb&probBoxId=AV9gdM_anw0DFAQc&leftPage=1#none)
 
+- [백준 sw 문제집](https://www.acmicpc.net/workbook/view/2063)
+- [삼성 역량테스트 문제들](https://jayrightthere.tistory.com/category/BOJ/%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [풀어야 할 문제](https://dongwook-chang.tistory.com/64)
+
 # 양식
 ```
 # 문제이름
